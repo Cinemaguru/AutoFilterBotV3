@@ -28,14 +28,21 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
-    
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥🤖 ️Name🤖:Dulqer salman
 
-➥ Language : Python3
 
-➥ Library : Pyrogram Asyncio 1.13.0
+🧑‍💻Developer 🧑‍💻=https://t.me/filmspoteradmin
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+✍ Written In: Python3 
+
+📚 ️Based On : Pyrogram 1.13.0
+
+💬group💬 - https://t.me/Filmspoters
+
+🔊channel🔊 -🔊channel🔊(https://t.me/Filmspoterchannel)
+
+
+
+
+
 """
