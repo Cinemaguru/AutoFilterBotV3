@@ -35,7 +35,21 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 default_start_msg = """
-**Hi, I'm Auto Filter V3**
+**Hᴇʟᴏ  {message.from_user.mention}🤝!Tʜᴀɴᴋ Yᴏᴜ Fᴏʀ Jᴏɪɴɪɴɢ Wɪᴛʜ Us 😊 Wᴇ Wᴇʟᴄᴏᴍᴇ Yᴏᴜ Tᴏ 🥳 Yᴏᴜʀ Sᴜᴘᴘᴏʀᴛ Hᴇʟᴘs Us Tᴏ Rᴇᴀᴄʜ Us Oɴ Bɪɢɢᴇʀ Pᴏsɪᴛɪᴏɴs 😍 Kᴇᴇᴘ Sᴜᴘᴘᴏʀᴛɪɴɢ 😊
+
+ ✪༺ ──•◈•─ •─ ─•◈•──༻
+
+🤖 BOT 🤖 - 👇
+
+ @ProfessorFSbot - Manager bot 
+
+@luciferFSbot - imdb, inline, auto filter bot                                                                                 @tokyoFSbot - auto filter bot  
+
+@FSMoviebot - feedback and group helper           
+
+Which Movie You Don't Get In @Filmspoters Have To Contact Admin Using This Bot. Admin👉@FSMoviebot Will Give The Movie When When He Was Online.😋.
+
+✪༺ ──•◈•─ •─ ─•◈•──༻**
 
 Here you can search files in Inline mode as well as PM, Use the below buttons to search files or send me the name of file to search.
 """
